@@ -1,0 +1,30 @@
+* {
+  font-family: 'Roboto';
+}
+.home-title {
+  font-size: 36px;
+}
+.home-inside-container {
+  padding: 4%;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.list-items {
+  display: flex;
+  align-items: center;
+  margin: 45px;
+}
+.list-items p {
+  margin: 5px;
+}
+.para {
+  text-decoration: none;
+}
+.p {
+  color: #475569;
+  font-weight: bold;
+  font-size: larger;
+}

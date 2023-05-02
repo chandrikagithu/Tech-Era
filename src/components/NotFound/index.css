@@ -1,0 +1,17 @@
+.notfound-image {
+  width: 500px;
+  height: 400px;
+}
+.notfound-heading {
+  color: #475569;
+}
+.notfound-para {
+  color: #64748b;
+}
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
